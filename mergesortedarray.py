@@ -11,3 +11,4 @@ nums2 = [4,5,6]
 
 if merge( nums1,nums2,m,n):
     print("hello world")
+    print("another try for today's strick ")
